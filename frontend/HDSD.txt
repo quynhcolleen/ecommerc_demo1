@@ -1,0 +1,5 @@
+//chạy database
+npm run go
+
+//chạy chương trình 
+npm start

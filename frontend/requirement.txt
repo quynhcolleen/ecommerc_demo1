@@ -1,0 +1,8 @@
+react/react-dom
+react-router
+create-react-app
+babel
+clsx
+diacritics : thư viện xóa dấu
+axios : truy cập các phương thưc get post put delete trong http
+framer motion: thư viện tạo animation

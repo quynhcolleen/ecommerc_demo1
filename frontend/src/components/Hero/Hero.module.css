@@ -1,0 +1,68 @@
+.hero_desktop{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    color: rgba(255, 255, 255, 1);
+    background-image: url(../../background/Den-Nau-an-cho-em-ft.-PiaLinh-screenshot-3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 270px;
+    font-weight: 700;
+}
+
+.hero_desktop_heading1, 
+.hero_desktop_heading2{
+    position: absolute;
+}
+.hero_desktop_heading1{
+    top: 0;
+}
+
+.hero_desktop_heading2{
+    top: 250px;
+}
+
+.hero_mobile{
+    display: none;
+    justify-content: space-between;
+    align-items: center;
+    margin: 16px 24px;
+}
+
+.hero_mobile_heading1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hero_mobile_heading2{
+    position: relative;
+}
+
+.hero_mobile_quantity_items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    background: var(--contrast-color);
+    color: white;
+    font-size: 0.7rem;
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+    right: -10px;
+}
+
+@media only screen and (max-width: 900px) {
+    .hero_desktop{
+        display: none;
+    }
+    .hero_mobile{
+        display: flex;
+    }
+}
+

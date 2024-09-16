@@ -1,0 +1,18 @@
+.filter{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.filter_title{
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: end;
+}
+
+.filter_button{
+    font-size: 1rem;
+    font-weight: 700;
+    text-decoration: underline;
+    text-align: end;
+}

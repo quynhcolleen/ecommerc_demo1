@@ -1,0 +1,31 @@
+.search_field{
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+    position: relative;
+    gap: 10px;
+}
+
+.search{
+    margin-left: 20px;
+    width: 70%;
+    height: 40px;
+    background-color: #f8f8f8;
+    border: 3px solid #333;
+    border-radius: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+    position: relative;
+    outline: none;
+}
+.search:focus{
+    border: 3px solid var(--sub-accent-color);
+    transform: scale(1.008);
+}
+
+
+.search_field>img{
+    width: 35px;
+    height: 35px;
+    object-fit: contain;
+}

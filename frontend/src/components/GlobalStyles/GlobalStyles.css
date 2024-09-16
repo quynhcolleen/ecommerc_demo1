@@ -1,0 +1,74 @@
+:root{
+    --sub-bg-color: #DEF9C4;
+    --bg-color: #fff;
+    --sub-accent-color: #468585;
+    --accent-color: #50B498;
+    --contrast-color: #F24C3D;
+    --adjust-color: BLUE;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+}
+
+ul{
+    list-style: none;
+}
+
+img{
+    width: 100%;
+    object-fit: cover;
+    aspect-ratio: 3/4;
+    object-position: center;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+.d-flex{
+    display: flex;
+}
+.d-flex-column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.d-flex-center{
+    display: flex;
+    align-items: center;
+}
+
+.accent{
+    color: var(--sub-accent-color);
+}
+
+.black-color{
+    color: black;
+}
+
+.sub-accent-color{
+    color: var(--sub-accent-color);
+}
+
+.pos_relative{
+    position: relative;
+}
+
+.clickEffect:active{
+    opacity: 0.8;
+    transform: scale(0.98);
+    transition: transform 0.1s ease-out;
+}
+
+.hoverEffect{
+    transition: transform 0.2s ease-in-out;
+}
+.hoverEffect:hover{
+    transform: scale(1.05);
+    transition: transform 0.15s ease-out;
+}
+

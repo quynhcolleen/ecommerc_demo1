@@ -1,0 +1,101 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Tiền đẻ ra tiền",
+      "img": "Tien_de_ra_tien",
+      "price": "200.000đ",
+      "detail": "Cuốn sách 'Tiền đẻ ra tiền' là một hướng dẫn chi tiết về cách quản lý tài chính cá nhân hiệu quả.\nTác giả tập trung vào việc giúp bạn hiểu rõ cách làm cho tiền bạc của mình sinh lời thông qua các chiến lược đầu tư thông minh và quản lý chi tiêu hợp lý.\n\nCuốn sách không chỉ là một tài liệu lý thuyết mà còn là một bộ công cụ thực tiễn giúp bạn lập kế hoạch tài chính, kiểm soát chi phí, và tạo ra nguồn thu nhập thụ động.\nVới những ví dụ cụ thể và các bài học từ thực tế, 'Tiền đẻ ra tiền' mang đến cho bạn một nền tảng vững chắc để đạt được sự tự do tài chính.",
+      "category": "Kinh tế",
+      "isPopular": true
+    },
+    {
+      "id": "2",
+      "name": "Chiến tranh tiền tệ",
+      "img": "Chien_tranh_tien_te",
+      "price": "200.000đ",
+      "detail": "Cuốn sách 'Chiến tranh tiền tệ' khám phá sự phức tạp của hệ thống tài chính toàn cầu và những ảnh hưởng sâu sắc của nó đến nền kinh tế và chính trị thế giới.\n\nTác giả đi sâu vào phân tích các cuộc xung đột tài chính giữa các quốc gia và những chiến lược mà họ sử dụng để bảo vệ hoặc thao túng đồng tiền của mình.\nCuốn sách cung cấp một cái nhìn toàn diện về cách các thế lực tài chính đang tác động đến đời sống hàng ngày của chúng ta, từ giá cả hàng hóa đến sự ổn định của các thị trường tài chính.\nĐây là một tài liệu quan trọng cho những ai quan tâm đến kinh tế vĩ mô và muốn hiểu rõ hơn về cách các chính sách tiền tệ toàn cầu đang hình thành tương lai của chúng ta.",
+      "category": "Kinh tế",
+      "isPopular": false
+    },
+    {
+      "id": "3",
+      "name": "300 bài code thiếu nhi",
+      "img": "b300_bai_code_thieu_nhi",
+      "price": "180.000đ",
+      "detail": "'300 bài code thiếu nhi' là một cuốn sách tuyệt vời dành cho các bậc phụ huynh và giáo viên muốn giới thiệu lập trình cho trẻ em.\n\nCuốn sách này cung cấp một loạt các bài tập lập trình từ đơn giản đến phức tạp, giúp trẻ phát triển tư duy logic và kỹ năng giải quyết vấn đề.\n\nCác bài tập được thiết kế một cách sinh động và dễ hiểu, sử dụng ngôn ngữ lập trình phổ biến như Scratch hoặc Python.\nCuốn sách không chỉ giúp trẻ nắm bắt các khái niệm cơ bản về lập trình mà còn khơi gợi niềm đam mê với công nghệ thông tin từ khi còn nhỏ.",
+      "category": "Khoa học",
+      "isPopular": true
+    },
+    {
+      "id": "4",
+      "name": "Bản đồ dòng tiền",
+      "img": "Ban_do_dong_tien",
+      "price": "200.000đ",
+      "detail": "Cuốn sách 'Bản đồ dòng tiền' giúp bạn hiểu rõ hơn về cách quản lý và kiểm soát dòng tiền cá nhân. Với những hướng dẫn cụ thể và thực tiễn, cuốn sách là một công cụ hữu ích cho việc lập kế hoạch tài chính cá nhân.",
+      "category": "Kinh tế",
+      "isPopular": false
+    },
+    {
+      "id": "6",
+      "name": "Đừng bao giờ đi ăn một mình",
+      "img": "Dung_bao_gio_di_an_mot_minh",
+      "price": "150.000đ",
+      "detail": "'Đừng bao giờ đi ăn một mình' là một cuốn sách về nghệ thuật xây dựng và duy trì các mối quan hệ trong cuộc sống và công việc.\n\nTác giả khuyên bạn rằng thành công không chỉ đến từ tài năng cá nhân mà còn từ việc biết cách kết nối và hợp tác với người khác.\n\nCuốn sách chia sẻ những chiến lược cụ thể để mở rộng mạng lưới quan hệ, từ việc kết nối với các đồng nghiệp đến việc tìm kiếm những người cố vấn.\nBằng cách học cách giao tiếp hiệu quả và xây dựng lòng tin, bạn sẽ có thể phát triển sự nghiệp và cuộc sống cá nhân một cách bền vững.\n\nĐây là một cuốn sách hữu ích cho bất kỳ ai muốn cải thiện kỹ năng xã hội và đạt được thành công lớn hơn thông qua sự hỗ trợ và hợp tác của cộng đồng.",
+      "category": "Tâm lí học",
+      "isPopular": true
+    },
+    {
+      "id": "7",
+      "name": "Bản đồ dòng tiền",
+      "img": "Ban_do_dong_tien",
+      "price": "200.000đ",
+      "detail": "Cuốn sách 'Bản đồ dòng tiền' giúp bạn hiểu rõ hơn về cách quản lý và kiểm soát dòng tiền cá nhân. Với những hướng dẫn cụ thể và thực tiễn, cuốn sách là một công cụ hữu ích cho việc lập kế hoạch tài chính cá nhân.",
+      "category": "Kinh tế",
+      "isPopular": false
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "name": "300 bài code thiếu nhi",
+      "img": "b300_bai_code_thieu_nhi",
+      "price": "180.000đ",
+      "detail": "'300 bài code thiếu nhi' là một cuốn sách tuyệt vời dành cho các bậc phụ huynh và giáo viên muốn giới thiệu lập trình cho trẻ em.\n\nCuốn sách này cung cấp một loạt các bài tập lập trình từ đơn giản đến phức tạp, giúp trẻ phát triển tư duy logic và kỹ năng giải quyết vấn đề.\n\nCác bài tập được thiết kế một cách sinh động và dễ hiểu, sử dụng ngôn ngữ lập trình phổ biến như Scratch hoặc Python.\nCuốn sách không chỉ giúp trẻ nắm bắt các khái niệm cơ bản về lập trình mà còn khơi gợi niềm đam mê với công nghệ thông tin từ khi còn nhỏ.",
+      "category": "Khoa học",
+      "isPopular": true
+    }
+  ],
+  "account": [
+    {
+      "id": "1",
+      "name": "Nguyen Van A",
+      "photo": "https://example.com/photos/nguyenvana.jpg",
+      "email": "nguyenvana@example.com",
+      "phone": "+84987654321",
+      "gender": "male",
+      "donation_amount": 1000000,
+      "books_purchased": 5
+    },
+    {
+      "id": "2",
+      "name": "Tran Thi B",
+      "photo": "https://example.com/photos/tranthib.jpg",
+      "email": "tranthib@example.com",
+      "phone": "+84987654322",
+      "gender": "female",
+      "donation_amount": 500000,
+      "books_purchased": 3
+    },
+    {
+      "id": "3",
+      "name": "Le Van C",
+      "photo": "https://example.com/photos/levanc.jpg",
+      "email": "levanc@example.com",
+      "phone": "+84987654323",
+      "gender": "male",
+      "donation_amount": 200000,
+      "books_purchased": 7
+    }
+  ]
+}
